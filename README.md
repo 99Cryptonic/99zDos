@@ -2,4 +2,5 @@
 # 99zDos (DDOS TOOL MADE BY CRYPTONIC AND POMPOMPURIN)
 
 
-![Screenshot_48](https://github.com/user-attachments/assets/7e5275e4-e0c5-4b97-a2f1-0b669d23d73b)
+
+![Screenshot_55](https://github.com/user-attachments/assets/1fa6c710-83b4-4194-8870-a7670cab2140)
